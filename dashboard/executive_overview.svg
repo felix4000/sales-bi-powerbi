@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="380" viewBox="0 0 980 380">
+<rect width="980" height="380" fill="#f9f9f7"/>
+<text x="32" y="42" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="20" font-weight="700" fill="#0b0b0b">Executive Overview — Sales BI (synthetic data)</text>
+<text x="32" y="64" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="13" fill="#898781">Order-level extract · dashboard concept, Power BI Page 1</text>
+<rect x="32" y="92" width="210" height="108" rx="10" fill="#fcfcfb" stroke="#e1e0d9"/>
+<text x="50" y="122" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="12" fill="#898781" letter-spacing="0.5">REVENUE</text>
+<text x="50" y="154" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="26" font-weight="700" fill="#0b0b0b">EUR 135.2K</text>
+<text x="50" y="176" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="12" fill="#1baf7a">sample extract</text>
+<rect x="260" y="92" width="210" height="108" rx="10" fill="#fcfcfb" stroke="#e1e0d9"/>
+<text x="278" y="122" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="12" fill="#898781" letter-spacing="0.5">ORDERS</text>
+<text x="278" y="154" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="26" font-weight="700" fill="#0b0b0b">650</text>
+<text x="278" y="176" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="12" fill="#1baf7a">275 customers</text>
+<rect x="488" y="92" width="210" height="108" rx="10" fill="#fcfcfb" stroke="#e1e0d9"/>
+<text x="506" y="122" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="12" fill="#898781" letter-spacing="0.5">AVG ORDER VALUE</text>
+<text x="506" y="154" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="26" font-weight="700" fill="#0b0b0b">EUR 208</text>
+<text x="506" y="176" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="12" fill="#1baf7a">sample extract</text>
+<rect x="716" y="92" width="210" height="108" rx="10" fill="#fcfcfb" stroke="#e1e0d9"/>
+<text x="734" y="122" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="12" fill="#898781" letter-spacing="0.5">GROSS MARGIN</text>
+<text x="734" y="154" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="26" font-weight="700" fill="#0b0b0b">EUR 58.9K</text>
+<text x="734" y="176" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="12" fill="#1baf7a">43.6% margin</text>
+<text x="32" y="226" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="13" font-weight="600" fill="#0b0b0b">Revenue by category</text>
+<text x="32" y="249" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11" fill="#52514e" text-anchor="start">Engine Parts</text>
+<rect x="182" y="240" width="656.0" height="10" rx="2" fill="#2a78d6"/>
+<text x="846.0" y="249" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="10" fill="#898781">EUR 31,064</text>
+<text x="32" y="263" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11" fill="#52514e" text-anchor="start">Suspension</text>
+<rect x="182" y="254" width="653.2" height="10" rx="2" fill="#2a78d6"/>
+<text x="843.2" y="263" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="10" fill="#898781">EUR 30,933</text>
+<text x="32" y="277" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11" fill="#52514e" text-anchor="start">Transmission</text>
+<rect x="182" y="268" width="626.3" height="10" rx="2" fill="#2a78d6"/>
+<text x="816.3" y="277" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="10" fill="#898781">EUR 29,657</text>
+<text x="32" y="291" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11" fill="#52514e" text-anchor="start">Braking System</text>
+<rect x="182" y="282" width="289.8" height="10" rx="2" fill="#2a78d6"/>
+<text x="479.8" y="291" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="10" fill="#898781">EUR 13,722</text>
+<text x="32" y="305" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11" fill="#52514e" text-anchor="start">Body &amp; Exterior</text>
+<rect x="182" y="296" width="285.3" height="10" rx="2" fill="#2a78d6"/>
+<text x="475.3" y="305" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="10" fill="#898781">EUR 13,510</text>
+<text x="32" y="319" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11" fill="#52514e" text-anchor="start">Cooling System</text>
+<rect x="182" y="310" width="218.6" height="10" rx="2" fill="#2a78d6"/>
+<text x="408.6" y="319" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="10" fill="#898781">EUR 10,353</text>
+<text x="32" y="333" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11" fill="#52514e" text-anchor="start">Lighting</text>
+<rect x="182" y="324" width="79.4" height="10" rx="2" fill="#2a78d6"/>
+<text x="269.4" y="333" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="10" fill="#898781">EUR 3,759</text>
+<text x="32" y="347" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11" fill="#52514e" text-anchor="start">Filters</text>
+<rect x="182" y="338" width="47.0" height="10" rx="2" fill="#2a78d6"/>
+<text x="237.0" y="347" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="10" fill="#898781">EUR 2,225</text>
+<text x="32" y="366" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11" fill="#898781">Synthetic/anonymised data — see docs/methodology.md. Not real company figures.</text>
+</svg>
